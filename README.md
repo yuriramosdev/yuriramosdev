@@ -25,7 +25,7 @@
 
 ###
 
-<h4 align="left">ABOUT ME</h4>
+<h4 align="center">ABOUT ME</h4>
 
 ###
 
@@ -35,8 +35,8 @@
 
 <br clear="both">
 
-<div align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yuriramosdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=true&order=2" height="120" alt="languages graph"  />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yuriramosdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=true&order=2&custom_title=My%20favorites%20languages" height="150" alt="languages graph"  />
 </div>
 
 ###
