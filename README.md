@@ -21,11 +21,11 @@
 
 ###
 
-<h6 align="center">"Programming isn't about what you know; it's about what you can figure out."</h6>
+<h6 align="center">| "Programming isn't about what you know; it's about what you can figure out." |</h6>
 
 ###
 
-<h3 align="left">ABOUT ME</h3>
+<h4 align="left">ABOUT ME</h4>
 
 ###
 
@@ -35,9 +35,8 @@
 
 <br clear="both">
 
-<div align="center">
+<div align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yuriramosdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=true&order=2" height="120" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuriramosdev&radius=16&theme=nightowl&area=true&order=5&hide_border=true&hide_title=true" height="210" alt="activity-graph graph"  />
 </div>
 
 ###
