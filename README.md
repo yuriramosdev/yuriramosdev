@@ -26,16 +26,16 @@
 
 ###
 
-<p align="center">Sou um arquiteto e urbanista em transição para a área de tecnologia, na qual <br>sempre fui um entusiasta. Atualmente tenho meus estudos focados em Python <br>mas sempre procurando expandir meu conhecimento e minhas habilidades<br> na programação. Meu objetivo nessa área é conseguir resolver problemas de <br>forma eficiente e aprender cada vez mais.</p>
+<p align="center">Sou um arquiteto e urbanista em transição para a área de tecnologia, na qual <br>sempre fui um entusiasta. Atualmente tenho meus estudos focados em Python <br>e estou sempre procurando expandir meu conhecimento e minhas habilidades<br> na programação. Meu objetivo nessa área é conseguir resolver problemas de <br>forma eficiente e aprender cada vez mais.</p>
 
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="40" alt="vscode logo"  />
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="30" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="40" alt="git logo"  />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" alt="git logo"  />
 </div>
 
 ###
