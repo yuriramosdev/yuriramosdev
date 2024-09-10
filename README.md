@@ -26,7 +26,7 @@
 
 ###
 
-<p align="center">Sou um arquiteto e urbanista em transição para a área de tecnologia, na qual <br>me considero um entusiasta. Atualmente tenho meus estudos focados em Python <br>e estou sempre procurando expandir meu conhecimento e minhas habilidades<br> na programação. Meu objetivo nessa área é conseguir resolver problemas de <br>forma eficiente e aprender cada vez mais.</p>
+<p align="center">Hello! I'm an architect and urban planner currently transitioning to <br>the field of technology, in which I consider myself a true enthusiast! <br>Right now, I'm focusing on Python, but I'm always looking foward to learn and <br>grow my skills in programming. My goal is to be able to solve problems <br>quickly and efficiently, and to learn as much as I can along the way!</p>
 
 ###
 
