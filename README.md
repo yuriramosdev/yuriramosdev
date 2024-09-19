@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center">Backend Developer | Aiming for Data Science & Machine Learning</h4>
+<h4 align="center">Backend Developer | Aiming for Data Science & Machine Learning & AI</h4>
 
 ###
 
